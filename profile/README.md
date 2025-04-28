@@ -13,9 +13,9 @@ Many projects have documentation either as static sites, wikis or a combination 
 
 We're working on an organization wiki right now. Check back in a bit!
 #### Comms
-We have a Discord where you can come for support, general questions, development help or just to hang out:
+We have a Discord where you can come for support, general questions and development help:
 
-Discord: [HUB | Community](https://discord.gg/ykNnUnsZaF)
+Discord: [Team Sanctum](https://discord.gg/M5NaFWq7Qe)
 
 <!--
 **Here are some ideas to get you started:**
